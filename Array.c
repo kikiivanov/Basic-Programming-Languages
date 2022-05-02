@@ -16,7 +16,7 @@ The elements copied into the second array are:
 2 7 5
 Elements of array in sorted ascending order:
 2 5 7
-Elements of array in sorted ascending order:
+Elements of array in sorted descending order:
 7 5 2
 Sum of all elements stored in the array is 14
 Maximum element is 7
