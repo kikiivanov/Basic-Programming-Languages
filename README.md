@@ -2,6 +2,7 @@
 C Programming Language
 
 👋 Hi, I’m Kristijan Ivanov
+
 🏠 I’m from Serbia
 
 🏙️ I live in Sofia, Bulgaria
