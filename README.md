@@ -19,6 +19,9 @@ C Programming Language
 
 📫 How to reach me?
 
-ig: kikii_49
+ig: kristijanivanov_
 
 e-mail: ivanovkristiyan8@yahoo.com
+
+LinkedIn: https://www.linkedin.com/in/kristijan-ivanov-4603aa254
+
